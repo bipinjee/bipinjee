@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I’m currently learning React & Express JS<br>💬 Ask me about react<br>📫 How to reach me bk7368995495@gmail.com<br>📄 Know about my [experiences](https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing)<br>⚡ Fun fact --> I am very funny 😅
+S<br>💬 Ask me about react<br>📫 How to reach me bk7368995495@gmail.com<br>📄 Know about my [experiences](https://drive.google.com/file/d/1qsq07WMdmi65-xGKoXaASp0JIfYOiaXq/view?usp=sharing)<br>⚡ Fun fact --> I am very funny 😅
 
 
 ## 🌐 Socials:
